@@ -1,4 +1,4 @@
- <!-- Navbar -->
+<!-- Navbar -->
 
     <nav class="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">
       <div class="container-fluid">
@@ -18,11 +18,11 @@
               <a class="nav-link active" aria-current="page" href="#">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">About</a>
+              <a class="nav-link" href="#hero">About</a>
             </li>
 
             <li class="nav-item">
-              <a class="nav-link">Faq</a>
+              <a class="nav-link" href="#faq">Faq</a>
             </li>
           </ul>
           <div>
