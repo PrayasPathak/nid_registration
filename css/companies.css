@@ -18,7 +18,3 @@
   height: 10rem;
   cursor: pointer;
 }
-
-.company-logo:hover {
-  filter: grayscale();
-}

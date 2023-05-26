@@ -1,4 +1,4 @@
-<div class="container mt-5" id="faq">
+<div class="container-md mt-5 bg-dark" id="faq" data-bs-theme="dark">
       <div class="accordion accordion-flush" id="questions">
         <div class="accordion-item">
           <h2 class="accordion-header">

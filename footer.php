@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="./css/footer.css">
-<link rel="stylesheet" href="./css/utility.css">
 
 <footer class="bg-dark text-white mt-2">
   <div class="container-fluid">
